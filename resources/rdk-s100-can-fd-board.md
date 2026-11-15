@@ -4,13 +4,13 @@
 | 项目 | 说明 |
 | --- | --- |
 | 类型 | 硬件 / 通信扩展板 |
-| 贡献者 | [fengsvkn](https://github.com/fengsvkn)，依据原仓库提交记录 |
-| 适用平台 | D-Robotics RDK S100，J23 100-Pin MCU 扩展接口（作者说明） |
+| 贡献者 | [fengsvkn](https://github.com/fengsvkn)|
+| 适用平台 | D-Robotics RDK S100，J23 100-Pin MCU 扩展接口 |
 | 用途 | 引出 CAN5–CAN8 四路 CAN FD 物理收发通道，面向机器人、多节点电机和总线实验 |
 | 获取条件 | GitHub 公开可下载；立创开源广场的编辑、下载条件以该平台实际要求为准 |
 | 原仓库许可 | [Apache-2.0](https://github.com/K-NEW-AREA/RDKS100_mini_mcu_expansion_board/blob/main/LICENSE)；上游器件资料与外部平台内容按各自条款使用 |
 | 收录日期 | 2026-11-15 |
-| 核验版本 | [44bae74](https://github.com/K-NEW-AREA/RDKS100_mini_mcu_expansion_board/tree/44bae74b29e35ecf38ba4841009e5f7e3a36cc62)，尚无 Release；README 提及 v2，尚无对应发布标签 |
+| 核验版本 | [44bae74](https://github.com/K-NEW-AREA/RDKS100_mini_mcu_expansion_board/tree/44bae74b29e35ecf38ba4841009e5f7e3a36cc62)|
 | 当前状态 | 已收录 |
 ## 位置及内容
 主仓库位于 K-NEW AREA 组织内。作者也在 README 中提供了[立创开源广场入口](https://oshwhub.com/1888848995a/project_tfmruivo)。本页提供目录与复用说明，设计文件继续在原仓库维护。
