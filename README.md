@@ -12,6 +12,7 @@
 | 找资源 | [浏览五类资源目录](#资源目录) |
 | 贡献资源 | [提交资源](https://github.com/K-NEW-AREA/community/issues/new/choose) · [投稿指南](CONTRIBUTING.md) |
 | 寻找协作 | [查看共创事项](https://github.com/K-NEW-AREA/community/issues) |
+| 加入社区或参与共创 | [参与指南](JOIN.md) |
 | 提问与交流 | [社区讨论](https://github.com/K-NEW-AREA/community/discussions) |
 | 报告问题或复用成果 | [提交反馈](https://github.com/K-NEW-AREA/community/issues/new/choose) |
 浏览公开目录无需加入组织。投稿与讨论使用自己的 GitHub 账号即可；
